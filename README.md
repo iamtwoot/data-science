@@ -8,4 +8,5 @@ This is the data science block from "100 days of python bootcamp" course.
 [Google Colab](https://drive.google.com/file/d/1ZVT9KstPPsCWI6Y9OcDD8YaoKn8v_Xyg/view?usp=sharing)
 
 4. **Resampling and Visualising Time Series:** Learned `.describe()` to quickly see some descriptive statistics at a glance, `.resample()` to make a time-series data comparable to another by changing the periodicity. Looked how to work with `matplotlib.dates` Locators to better style a timeline (e.g., an axis on a chart). Found out how to find the number of NaN values with `.isna().values.sum()`. Fine-tuning the styling of `Matplotlib` charts by using limits, labels, line width and colours.\
+[day-75](./img/4.png)\
 [Google Colab](https://drive.google.com/file/d/1s83Us10ozZxhwaYB2okfr5p0etMt6f3G/view?usp=sharing)
