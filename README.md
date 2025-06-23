@@ -1,6 +1,6 @@
 # Data Science
 
-Here are my data analytics related works.
+Here are my data analytics related works.\
 This is the data science block from "100 days of python bootcamp" course.
 
 ## Projects
