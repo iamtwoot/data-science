@@ -1,7 +1,6 @@
 # Data Science
 
 Here are my data analytics related works.
-This repo was created for records keeping purposes.
 This is the data science block from "100 days of python bootcamp" course.
 
 ## Projects
