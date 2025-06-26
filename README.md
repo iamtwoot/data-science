@@ -10,3 +10,7 @@ This is the data science block from "100 days of python bootcamp" course.
 4. **Resampling and Visualising Time Series:** Learned `.describe()` to quickly see some descriptive statistics at a glance, `.resample()` to make a time-series data comparable to another by changing the periodicity. Looked how to work with `matplotlib.dates` Locators to better style a timeline (e.g., an axis on a chart). Found out how to find the number of NaN values with `.isna().values.sum()`. Fine-tuning the styling of `Matplotlib` charts by using limits, labels, line width and colours.\
 ![day-75](./img/4.png)\
 [Google Colab](https://drive.google.com/file/d/1s83Us10ozZxhwaYB2okfr5p0etMt6f3G/view?usp=sharing)
+
+5. **Beautiful Plotly Charts and Analysing Android App Store:** Pull a random sample from a DataFrame using `.sample()`, find duplicate entries with `.duplicated()` and `.drop_duplicates()`, convert string and object data types into numbers with `.to_numeric()`. Use plotly to generate beautiful pie, donut, and bar charts as well as box and scatter plots.\
+![day-76](./img/5.png)\
+[Google Colab](https://drive.google.com/file/d/1jyYRfTStSZg58NeSJd3NWqEoNbb1TaRb/view?usp=sharing)
