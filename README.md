@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/374d0954-caff-45a8-bae8-d7133bc908b9)# Data Science
+# Data Science
 
 Here are my data analytics related works.\
 This is the data science block from "100 days of python bootcamp" course.
