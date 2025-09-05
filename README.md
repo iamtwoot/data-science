@@ -11,6 +11,7 @@ This is the data science block from "100 days of python bootcamp" course.
 **See final project [here](day-73-data-visualisation-matplotlip/day-73.ipynb)**
 
 3. **Data Aggregate and Merge Data With Pandas:** Diving deep into a dataset all about LEGO. Keep learning `pandas` module, combine the `.groupby()` and `.count()` functions to aggregate data, use the `.value_counts()` function, create a scatter plot in Matplotlib, work with tables in a relational database by using primary and foreign keys, `.merge()` DataFrames along a particular column, create a bar chart with Matplotlib.\
+**See final project [here](day-74-data-science-agg-merge/day-74/Lego_Analysis_for_Course_(start).ipynb)**
 [Google Colab](https://drive.google.com/file/d/1ZVT9KstPPsCWI6Y9OcDD8YaoKn8v_Xyg/view?usp=sharing)
 
 4. **Resampling and Visualising Time Series:** Learned `.describe()` to quickly see some descriptive statistics at a glance, `.resample()` to make a time-series data comparable to another by changing the periodicity. Looked how to work with `matplotlib.dates` Locators to better style a timeline (e.g., an axis on a chart). Found out how to find the number of NaN values with `.isna().values.sum()`. Fine-tuning the styling of `Matplotlib` charts by using limits, labels, line width and colours.\
