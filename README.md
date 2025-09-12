@@ -20,8 +20,9 @@ This is the data science block from "100 days of python bootcamp" course.
 
 5. **Beautiful Plotly Charts and Analysing Android App Store:** Pull a random sample from a DataFrame using `.sample()`, find duplicate entries with `.duplicated()` and `.drop_duplicates()`, convert string and object data types into numbers with `.to_numeric()`. Use plotly to generate beautiful pie, donut, and bar charts as well as box and scatter plots.\
 ![day-76](./img/5.png)\
+**See final project [here](day-76-analysing-android-app-store/day-76/Google Play Store App Analytics (start).ipynb)
 [Google Colab](https://drive.google.com/file/d/1jyYRfTStSZg58NeSJd3NWqEoNbb1TaRb/view?usp=sharing)
 
-6. **Computation with NumPy and N-Dimensional Arrays:** Create arrays manually with `np.array()` as well as generate arrays using  `.arange()`, `.random()`, and `.linspace()`. Analyse the shape and dimensions of a ndarray, slice and subset a ndarray based on its indices. Do linear algebra like operations with scalars and matrix multiplication, use NumPys broadcasting to make ndarray shapes compatible. And the most exciting - manipulate images in the form of ndarrays.\
+7. **Computation with NumPy and N-Dimensional Arrays:** Create arrays manually with `np.array()` as well as generate arrays using  `.arange()`, `.random()`, and `.linspace()`. Analyse the shape and dimensions of a ndarray, slice and subset a ndarray based on its indices. Do linear algebra like operations with scalars and matrix multiplication, use NumPys broadcasting to make ndarray shapes compatible. And the most exciting - manipulate images in the form of ndarrays.\
 ![day-77](./img/6.png)\
 [Google Colab](https://drive.google.com/file/d/1yLLgztHooQzlBrn8SvJT3C1ZTVfNNwsJ/view?usp=sharing)
