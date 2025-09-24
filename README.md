@@ -26,3 +26,6 @@ This is the data science block from "100 days of python bootcamp" course.
 7. **Computation with NumPy and N-Dimensional Arrays:** Create arrays manually with `np.array()` as well as generate arrays using  `.arange()`, `.random()`, and `.linspace()`. Analyse the shape and dimensions of a ndarray, slice and subset a ndarray based on its indices. Do linear algebra like operations with scalars and matrix multiplication, use NumPys broadcasting to make ndarray shapes compatible. And the most exciting - manipulate images in the form of ndarrays.\
 ![day-77](./img/6.png)\
 [Google Colab](https://drive.google.com/file/d/1yLLgztHooQzlBrn8SvJT3C1ZTVfNNwsJ/view?usp=sharing)
+
+8. **Linear Regression and Data Visualisation with Seaborn:** Use nested loops to remove unwanted characters from multiple columns. Filter Pandas DataFrames based on multiple conditions using both `.loc[]` and `.query()`. Create bubble charts using the Seaborn Library. Style Seaborn charts using the pre-built styles and by modifying Matplotlib parameters. Use Seaborn to superimpose a linear regressions over our data. Make a judgement if our regression is good or bad based on how well the model fits our data and the r-squared metric. Run regressions with scikit-learn and calculate the coefficients.
+**See final project [here](day-78/Seaborn_and_Linear_Regression_(start).ipynb)**
